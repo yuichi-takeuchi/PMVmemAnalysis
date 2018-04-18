@@ -20,7 +20,7 @@ The code has been tested with Matlab ver 8.6 (R2015b) for Windows.
 4. Collect the results and put together into a single mat file and make a population statistics with the Fg_561.m script.
 
 ## DOI
-none yet
+[![DOI](https://zenodo.org/badge/124748872.svg)](https://zenodo.org/badge/latestdoi/124748872)
 
 ## Versioning
 We use [SemVer](http://semver.org/) for versioning.
