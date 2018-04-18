@@ -7,7 +7,7 @@ Matlab codes for neuronal membrane potential analyses typically recorded with th
 * Matlab (https://www.mathworks.com/products/matlab.html)
 * APDetector Matlab GUI (https://github.com/yuichi-takeuchi/APDetector)
 
-The code has been tested with Matlab ver 8.6 (R2015b).
+The code has been tested with Matlab ver 8.6 (R2015b) for Windows.
 
 ### Installing
 * Install Matlab.
@@ -26,6 +26,7 @@ none yet
 We use [SemVer](http://semver.org/) for versioning.
 
 ## Releases
+* Ver 1.0.0, 2018/04/18: The first release.
 * Prerelease, 2018/03/11
 
 ## Authors
