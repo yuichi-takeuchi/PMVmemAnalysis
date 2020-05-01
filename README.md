@@ -1,17 +1,17 @@
 # PMVmemAnalysis
-Matlab codes for neuronal membrane potential analyses typically recorded with the PatchMaster software of HEKA.
+MATLAB codes for neuronal membrane potential analyses typically recorded with the PatchMaster software of HEKA.
 
 ## Getting Started
 
 ### Prerequisites
-* Matlab (https://www.mathworks.com/products/matlab.html)
-* APDetector Matlab GUI (https://github.com/yuichi-takeuchi/APDetector)
+* MATLAB (https://www.mathworks.com/products/matlab.html)
+* APDetector MATLAB GUI (https://github.com/yuichi-takeuchi/APDetector)
 
-The code has been tested with Matlab ver 8.6 (R2015b) for Windows.
+The code has been tested with MATLAB ver 8.6 (R2015b) for Windows.
 
 ### Installing
-* Install Matlab.
-* Give your Matlab pass to m files in the lib folder.
+* Install MATLAB.
+* Give your MATLAB path to m files in the lib folder.
 
 ### Concept
 1. Load membrane potential traces into Matlab exported as a mat file from PatchMaster software with an analysis script (e.g. PM_160421_exp2_analysis.m).
@@ -32,7 +32,7 @@ We use [SemVer](http://semver.org/) for versioning.
 ## Authors
 * **Yuichi Takeuchi PhD** - *Initial work* - [GitHub](https://github.com/yuichi-takeuchi)
 * Affiliation: Department of Physiology, University of Szeged, Hungary
-* E-mail: yuichi-takeuchi@umin.net
+* E-mail: takeuchi.yuichi@med.u-szeged.hu
 
 ## License
 This project is licensed under the MIT License.
